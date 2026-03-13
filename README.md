@@ -36,7 +36,7 @@
 
 | Project | Description |
 | --- | --- |
-| ai-transformer-decoder | Transformer decoder implementation from scratch |
+| [ai-transformer-decoder](https://github.com/Vihaan8/ai-transformer-decoder) | Transformer decoder implementation from scratch |
 | ai-attention-mechanisms | Exploring self-attention, multi-head attention, and positional encoding |
 
 **ML**
