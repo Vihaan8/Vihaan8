@@ -41,6 +41,9 @@
 
 **ML**
 
+| Project | Description |
+| --- | --- |
+| [ml_vibe_check_ai_code_quality(in-progress)](https://github.com/Vihaan8/ml_vibe_check_ai_code_quality) | Predicting whether AI-generated code will pass its test suite without running it|
 ---
 
 **Tech Stack**
