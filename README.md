@@ -4,7 +4,7 @@
 
 **About me**
 
-- I studied Data Science at UC Berkeley and am now in graduate training at Duke University. Between my education, I worked 3 years as a Data Engineer at the American Heart Association.
+- I studied Data Science at UC Berkeley and am now in grad school at Duke University. Between my education, I worked 3 years as a Data Engineer at the American Heart Association.
 - My GitHub has just a few Data Engineering, AI, and NLP projects I have built, mostly to learn. My other work projects are sadly set to private because they were proprietary work-related.
 - When I am not building, you can usually find me in nature somewhere. Either snorkeling, scuba diving, or hiking up pretty cool places!!
 - The best way to reach me is at: vihaan.manchanda@duke.edu
